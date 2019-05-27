@@ -1,0 +1,7 @@
+{
+  "name": "spaceTime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
